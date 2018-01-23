@@ -1,0 +1,2 @@
+- [cend.me](http://cend.me/) Direct file transfer with no server involvement.
+- [adr](https://github.com/phodal/adr) Architecture Decision Records
