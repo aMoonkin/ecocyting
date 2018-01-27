@@ -1,5 +1,6 @@
-(solution)[http://www.datagenetics.com/blog/july22012/index.html]
-(more solutions)[https://www.quora.com/You-have-2-eggs-You-are-on-a-100-floor-building-You-drop-the-egg-from-a-particular-floor-It-breaks-or-survives-If-it-survives-you-can-throw-the-same-egg-from-a-higher-floor-How-many-attempts-do-you-need-to-identify-the-max-floor-at-which-the-egg-doesnt-break-when-thrown-down]
+- [solution](http://www.datagenetics.com/blog/july22012/index.html)
+
+- [more solutions](https://www.quora.com/You-have-2-eggs-You-are-on-a-100-floor-building-You-drop-the-egg-from-a-particular-floor-It-breaks-or-survives-If-it-survives-you-can-throw-the-same-egg-from-a-higher-floor-How-many-attempts-do-you-need-to-identify-the-max-floor-at-which-the-egg-doesnt-break-when-thrown-down)
 
 As a interview question, I used it in my interview, and no one give a better answer than "binary search", even though I give them a hint about better solution suck as "10-divided search" etc.
 
