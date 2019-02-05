@@ -11,4 +11,6 @@ There's some "WATs" in this [video](https://www.destroyallsoftware.com/talks/wat
 - `{} + [] = `
     Wow, it's the same as the last one, isn't it? Actually, it's 0. Because `{}` here is parsed into a empty block, returns nothing. And, `+[]` means `+ Number([])`, we got a 0 after all.
 -  `[] + {} === {} + []`
-    The answer is true. Just because `{} + []`, `{}` here would be parsed as a **Object** instead of a empty block. The same thing occured when apply ({} + []).
+    The answer is true. Just because `{} + []`, `{}` here would be parsed as an **Object** instead of a empty block. The same thing occured when apply ({} + []).
+- `{} + {}`
+    The original answer is `NaN`, but I got `[object Object]`. The different is what the first `{}` is parsed. At the very moment I write this, the first `{}` is parsed as an Object(node 10.15.1, chrome 71.0.3578.98).
