@@ -15,3 +15,12 @@ function linkFn(...fns) {
     }
 }
 ```
+
+and [Nina Scholz](https://stackoverflow.com/users/1447675/nina-scholz) gives a simple and complete [solution](https://stackoverflow.com/a/54568750/7724445).
+
+He uses a `array function` instead of `funciton`
+
+```javascript
+pipe = (...functions) => input => functions.reduce((acc, fn) => fn(acc), input)
+```
+`input` here is my `x`.
