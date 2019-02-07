@@ -7,3 +7,4 @@ I name it just because it sounds like excting. All I want is to collect some int
 - [a==1&&a==2&&a==3](./problems/equal.md)
 - [something in WAT](./problems/wat.md)
 - [byte array](./problems/byteArray.md)
+- [pipeline](./problems/pipeline.md)
