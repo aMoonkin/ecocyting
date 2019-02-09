@@ -2,3 +2,4 @@
 - [adr](https://github.com/phodal/adr) Architecture Decision Records
 - [anki](https://apps.ankiweb.net/) Powerful, intelligent flash cards. Remembering things just became much easier.
 - [onenote](https://products.office.com/en-us/onenote/digital-note-taking-app) Your digital notebook.
+- [Spark](https://sparkmailapp.com/) The best personal email client. Revolutionary email for teams.
