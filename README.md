@@ -8,3 +8,4 @@ I name it just because it sounds like excting. All I want is to collect some int
 - [something in WAT](./problems/wat.md)
 - [byte array](./problems/byteArray.md)
 - [pipeline](./problems/pipeline.md)
+- [array to linked list](./problems/array2LinkedList.md)
